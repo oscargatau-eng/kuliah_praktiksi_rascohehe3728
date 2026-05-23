@@ -1,8 +1,6 @@
-Import streamlit as st
-st.set_page_config(
-  page_title="Finance Dashboard",
-  layout="wide"
-)
+import streamlit as st
+
+st.title("📊 Dashboard")
 
 
 
